@@ -1,6 +1,12 @@
-# 20+ Web Projects With Vanilla JavaScript
+# Vanilla Web Project
 
-## Projects
+Welcome to the Vanilla Web Project! This project showcases a simple web page built using Vanilla HTML, CSS, and JS, incorporating a variety of features to help you understand and practice these technologies.
+
+## Project Overview
+
+This project includes 20+ features that demonstrate the capabilities of Vanilla HTML, CSS, and JS. Each feature is implemented in a modular and well-organized manner, making it easy for you to explore, learn, and use them in your own projects.
+
+## Features Included
 
 |  #  |                          Project Code                           |                         Live Demo                                              |
 | :-: | :-------------------------------------------------------------: | :-----------------------------------------------------------------------------:|
