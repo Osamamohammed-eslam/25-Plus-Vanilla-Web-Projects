@@ -26,5 +26,5 @@
 | 20  | [Speak Number Guessing Game](./Projects/20-speak-number-guess/) |    [Live Demo](https://number-guess-gryo.netlify.app/)     |
 | 21  | [Simple Todo List](./Projects/21-simple-todo-list/)             | [Live Demo](https://number-guess-gryo.netlify.app/)        |
 | 22  | [Movie Add Project](./Projects/22-movie-adder-project/)           |    [Live Demo](https://number-guess-gryo.netlify.app/)     |
-| 23  | [Uncoventional Calculator](./Projects/23-uncoventional-Calculator/)   |    [Live Demo](https://number-guess-gryo.netlify.app/)     |
+| 23  | [Uncoventional Calculator](./Projects/23-unconventional-calculator/)   |    [Live Demo](https://number-guess-gryo.netlify.app/)     |
 | 24  | [Add Movie & fillter](./Projects/24-add-movie-obj/)          |    [Live Demo](https://number-guess-gryo.netlify.app/)     |
