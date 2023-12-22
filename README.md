@@ -34,3 +34,64 @@ This project includes 20+ features that demonstrate the capabilities of Vanilla 
 | 22  | [Movie Add Project](./Projects/22-movie-adder-project/)         |    [Live Demo](https://add-movie-project.netlify.app)                          |
 | 23  | [Uncoventional Calculator](./Projects/23-unconventional-calculator/)   |    [Live Demo](https://uncoventional-calculator.netlify.app)            |
 | 24  | [Add Movie & fillter](./Projects/24-add-movie-obj/)             |    [Live Demo](https://movie-adder-project.netlify.app)                        |
+
+## Features Included
+
+1. **Create Layouts & UI's With HTML/CSS:**
+   - Develop responsive and aesthetically pleasing user interfaces without relying on CSS frameworks.
+
+2. **CSS Animations:**
+   - Implement transitions and keyframe animations, triggered by JavaScript events for dynamic user experiences.
+
+3. **JavaScript Fundamentals:**
+   - Master the basics of JavaScript, including variables, data types, loops, and conditional statements.
+
+4. **DOM Selection & Manipulation:**
+   - Learn to select and manipulate DOM elements to dynamically update the content of web pages.
+
+5. **JavaScript Events:**
+   - Handle events such as form submissions, button clicks, and scrolling to create interactive features.
+
+6. **Fetch API & JSON:**
+   - Retrieve data from third-party APIs using the Fetch API and work with JSON data.
+
+7. **HTML5 Canvas:**
+   - Explore the HTML5 Canvas element for drawing graphics and creating visual effects.
+
+8. **Audio & Video API:**
+   - Utilize the Audio and Video APIs to embed multimedia content with custom controls.
+
+9. **Drag & Drop:**
+   - Implement drag-and-drop functionality to enhance user interaction.
+
+10. **Web Speech API (Synth & Recognition):**
+    - Integrate speech synthesis and recognition into your projects for voice-controlled applications.
+
+11. **Working with Local Storage:**
+    - Store and retrieve data locally using the browser's localStorage.
+
+12. **High Order Array Methods:**
+    - Master array manipulation with high-order methods like forEach, map, filter, reduce, and sort.
+
+13. **setTimeout, setInterval:**
+    - Understand and apply asynchronous JavaScript using setTimeout and setInterval.
+
+14. **Arrow Functions:**
+    - Learn the concise syntax and benefits of arrow functions in modern JavaScript.
+
+15. **And More!!**
+    When you view projects you will discover more things 😁
+      
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/vanilla-web-project.git
+   
+1.Open index.html in your browser.
+2.Explore the various features and learn how they are implemented.
+3.Experiment with the code and use it as a reference for your own projects.
+
+## Acknowledgments
+Inspiration: [Brad Traversys]
+Feel free to fork, modify, and use this project as a learning resource and starting point for your own web development endeavors. Happy coding!
