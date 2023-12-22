@@ -96,4 +96,5 @@ This project includes 20+ features that demonstrate the capabilities of Vanilla 
 
 ## Acknowledgments
 Inspiration: [Brad Traversys]
+
 Feel free to fork, modify, and use this project as a learning resource and starting point for your own web development endeavors. Happy coding!
