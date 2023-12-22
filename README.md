@@ -1,1 +1,1 @@
-# 20-Plus-Vanilla-Web-Projects
+# 20+ Vanilla Web Projects
