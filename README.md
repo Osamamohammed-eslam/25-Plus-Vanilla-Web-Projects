@@ -80,7 +80,7 @@ This project includes 20+ features that demonstrate the capabilities of Vanilla 
     - Learn the concise syntax and benefits of arrow functions in modern JavaScript.
 
 15. **And More!!**
-    When you view projects you will discover more things 😁
+   - When you view projects you will discover more things 😁
       
 ## Getting Started
 
@@ -89,7 +89,9 @@ This project includes 20+ features that demonstrate the capabilities of Vanilla 
    git clone https://github.com/your-username/vanilla-web-project.git
    
 1.Open index.html in your browser.
+
 2.Explore the various features and learn how they are implemented.
+
 3.Experiment with the code and use it as a reference for your own projects.
 
 ## Acknowledgments
