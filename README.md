@@ -6,7 +6,7 @@ Welcome to the Vanilla Web Project! This project showcases a simple web page bui
 
 This project includes 20+ features that demonstrate the capabilities of Vanilla HTML, CSS, and JS. Each feature is implemented in a modular and well-organized manner, making it easy for you to explore, learn, and use them in your own projects.
 
-## Features Included
+## Projects
 
 |  #  |                          Project Code                           |                         Live Demo                                              |
 | :-: | :-------------------------------------------------------------: | :-----------------------------------------------------------------------------:|
