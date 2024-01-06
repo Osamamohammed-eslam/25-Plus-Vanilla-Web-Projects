@@ -31,9 +31,9 @@ This project includes 20+ features that demonstrate the capabilities of Vanilla 
 | 19  |          [Sortable List](./Projects/19-sortable-list/)          |   [Live Demo](https://sortable-list-10-richest-people.netlify.app)             |
 | 20  | [Speak Number Guessing Game](./Projects/20-speak-number-guess/) |    [Live Demo](https://speak-number-guessing-game-try-it-out.netlify.app)      |
 | 21  | [Simple Todo List](./Projects/21-simple-todo-list/)             | [Live Demo](https://simple-todo-list-blue-theme.netlify.app)                   |
-| 22  | [Movie Add Project](./Projects/22-movie-adder-project/)         |    [Live Demo](https://add-movie-project.netlify.app)                          |
+| 22  | [Add Movie & fillter](./Projects/22-movie-adder-project/)         |    [Live Demo](https://add-movie-project.netlify.app)                          |
 | 23  | [Uncoventional Calculator](./Projects/23-unconventional-calculator/)   |    [Live Demo](https://uncoventional-calculator.netlify.app)            |
-| 24  | [Add Movie & fillter](./Projects/24-add-movie-obj/)             |    [Live Demo](https://movie-adder-project.netlify.app)                        |
+| 24  | [Movie Adder Project](./Projects/24-add-movie-obj/)             |    [Live Demo](https://movie-adder-project.netlify.app)                        |
 
 ## Features Included
 
