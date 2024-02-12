@@ -19,7 +19,7 @@ This project includes 20+ features that demonstrate the capabilities of Vanilla 
 | 07  |             [Hangman Game](./Projects/07-hangman/)              |       [Live Demo](https://hangaman-cool-game.netlify.app)                      |
 | 08  |          [Mealfinder App](./Projects/08-meal-finder/)           |     [Live Demo](https://search-you-meal.netlify.app)                           |
 | 09  |        [Expense Tracker](./Projects/09-expense-tracker/)        |  [Live Demo](https://expense-tracker-for-you.netlify.app)                      |
-| 10  |          [Monster Killer Project](./Projects/10-monster-killer-project/)          |    [Live Demo](https://monster-killer-project.netlify.app)   |
+| 10  |          [Monster Killer Project](./Projects/10-monster-killer-project/) |    [Live Demo](https://monster-killer-project.netlify.app)            |
 | 11  |     [Infinite Scrolling](./Projects/11-infinite-scrolling/)     |    [Live Demo](https://infinete-scroll-posts.netlify.app)                      |
 | 12  |             [Typing Game](./Projects/12-type-game/)             |      [Live Demo](https://typing-game-set-difficulty.netlify.app)               |
 | 13  |     [Speech Text Reader](./Projects/13-speech-text-reader/)     | [Live Demo](https://speech-text-reader-help-the-community.netlify.app))        |
@@ -31,9 +31,10 @@ This project includes 20+ features that demonstrate the capabilities of Vanilla 
 | 19  |          [Sortable List](./Projects/19-sortable-list/)          |   [Live Demo](https://sortable-list-10-richest-people.netlify.app)             |
 | 20  | [Speak Number Guessing Game](./Projects/20-speak-number-guess/) |    [Live Demo](https://speak-number-guessing-game-try-it-out.netlify.app)      |
 | 21  | [Simple Todo List](./Projects/21-simple-todo-list/)             | [Live Demo](https://simple-todo-list-blue-theme.netlify.app)                   |
-| 22  | [Add Movie & fillter](./Projects/22-movie-adder-project/)         |    [Live Demo](https://add-movie-project.netlify.app)                          |
+| 22  | [Add Movie & fillter](./Projects/22-movie-adder-project/)         |    [Live Demo](https://add-movie-project.netlify.app)                        |
 | 23  | [Uncoventional Calculator](./Projects/23-unconventional-calculator/)   |    [Live Demo](https://uncoventional-calculator.netlify.app)            |
 | 24  | [Movie Adder Project](./Projects/24-add-movie-obj/)             |    [Live Demo](https://movie-adder-project.netlify.app)                        |
+| 25  | [Theme Swapper](./Projects/24-add-movie-obj/)             |    [Live Demo](https://theme-swaper.netlify.app/)                              |
 
 ## Features Included
 
