@@ -34,7 +34,7 @@ This project includes 20+ features that demonstrate the capabilities of Vanilla 
 | 22  | [Add Movie & fillter](./Projects/22-movie-adder-project/)         |    [Live Demo](https://add-movie-project.netlify.app)                        |
 | 23  | [Uncoventional Calculator](./Projects/23-unconventional-calculator/)   |    [Live Demo](https://uncoventional-calculator.netlify.app)            |
 | 24  | [Movie Adder Project](./Projects/24-add-movie-obj/)             |    [Live Demo](https://movie-adder-project.netlify.app)                        |
-| 25  | [Theme Swapper](./Projects/24-add-movie-obj/)             |    [Live Demo](https://theme-swaper.netlify.app/)                              |
+| 25  | [Theme Swaper](./Projects/24-add-movie-obj/)             |    [Live Demo](https://theme-swaper.netlify.app/)                              |
 
 ## Features Included
 
