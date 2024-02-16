@@ -37,6 +37,7 @@ This project includes 20+ features that demonstrate the capabilities of Vanilla 
 | 25  | [Theme Swaper](Projects/25-lightDark-theme-toggle)              |    [Live Demo](https://theme-swaper.netlify.app/)                              |
 | 26  | [Weather App](Projects/26-weather-app)                          |    [Live Demo](https://weather-app-oi.netlify.app/)                            |
 | 27  | [Todo List App](Projects/27-todo-list-app)                      |    [Live Demo](https://todo-list-app-oi.netlify.app/)                          |
+| 28  | [Simple Quiz App]()                    |    [Live Demo]()                          |
 
 ## Features Included
 
