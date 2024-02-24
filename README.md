@@ -46,7 +46,7 @@ This projects includes 25+ features that demonstrate the capabilities of Vanilla
 | 02  |  [Form Validator](Projects/SASS-Projects/form-validator-v2)     |   [Live Demo](https://form-validator-v2.netlify.app/)                           |       V2    |
 | 03  |  [FAQ accordion](Projects/SASS-Projects/faq-accordion-v1)       |   [Live Demo](https://faq-accordion-oi.netlify.app/)                            |       V1    |
 | 04  |  [FAQ accordion](Projects/SASS-Projects/faq-accordion-v2)       |   [Live Demo](https://faq-accordion-v2.netlify.app/)                            |       V2    |
-| 05  |  [Movie seat Booking](Projects/SASS-Projects/faq-accordion-v2)  |   [Live Demo](https://movie-seat-booking-oi.netlify.app/)                       |       V2    |
+| 05  |  [Movie seat Booking](Projects/SASS-Projects/movie-seat-booking)|   [Live Demo](https://movie-seat-booking-oi.netlify.app/)                       |       -     |
 
 
 ## Features Included
