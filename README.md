@@ -11,7 +11,7 @@ This projects includes 25+ features that demonstrate the capabilities of Vanilla
 |  #  |                          Project Code                           |                         Live Demo                                              |
 | :-: | :-------------------------------------------------------------: | :-----------------------------------------------------------------------------:|
 | 01  |         [Form Validator](./Projects/01-form-validator/)         |   [Live Demo](https://form-validator-login.netlify.app)                        |
-| 02  |     [Movie Seat Booking](./Projects/02-movie-seat-booking/)     | [Live Demo](https://cool-movie-seat-booking.netlify.app)                       |
+| 02  |     [Movie Seat Booking](./Projects/02-movie-seat-booking/)     | [Live Demo](https://movie-seat-booking-oi.netlify.app/)                        |
 | 03  |    [Custom Video Player](./Projects/03-custom-video-player/)    | [Live Demo](https://custom-video-player-relaxing.netlify.app)                  |
 | 04  |    [Exchange Rate Calculator](./Projects/04-exchange-rate/)     |    [Live Demo](https://exchange-rate-calculator-cool-theme.netlify.app)        |
 | 05  |  [DOM Array Methods Project](./Projects/05-dOM-array-methods/)  |  [Live Demo](https://dom-array-method-money.netlify.app)                       |
@@ -46,6 +46,7 @@ This projects includes 25+ features that demonstrate the capabilities of Vanilla
 | 02  |  [Form Validator](Projects/SASS-Projects/form-validator-v2)     |   [Live Demo](https://form-validator-v2.netlify.app/)                           |       V2    |
 | 03  |  [FAQ accordion](Projects/SASS-Projects/faq-accordion-v1)       |   [Live Demo](https://faq-accordion-oi.netlify.app/)                            |       V1    |
 | 04  |  [FAQ accordion](Projects/SASS-Projects/faq-accordion-v2)       |   [Live Demo](https://faq-accordion-v2.netlify.app/)                            |       V2    |
+| 05  |  [Movie seat Booking](Projects/SASS-Projects/faq-accordion-v2)  |   [Live Demo](https://movie-seat-booking-oi.netlify.app/)                       |       V2    |
 
 
 ## Features Included
