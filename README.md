@@ -40,11 +40,13 @@ This projects includes 25+ features that demonstrate the capabilities of Vanilla
 | 28  | [Quiz App](Projects/28-quiz-app)                                |    [Live Demo](https://quiz-app-oi.netlify.app/)                               |
 
 ## Sass Projects
-|  #  |                          Project Code                           |                         Live Demo                                              |   versions  |
-| :-: | :-------------------------------------------------------------: | :-----------------------------------------------------------------------------:|  :--------: |
-| 01  |  [Form Validator](Projects/SASS-Projects/form-validator)       |   [Live Demo](https://form-validator-login.netlify.app)                         |       V1    |
-| 02  |  [FAQ accordion](Projects/SASS-Projects/faq-accordion-v1)      |   [Live Demo](https://faq-accordion-oi.netlify.app/)                            |       V1    |
-| 03  |  [FAQ accordion](Projects/SASS-Projects/faq-accordion-v2)      |   [Live Demo](https://faq-accordion-v2.netlify.app/)                            |       V2    |
+|  #  |                          Project Code                           |                         Live Demo                                               |   versions  |
+| :-: | :-------------------------------------------------------------: | :-----------------------------------------------------------------------------: |  :--------: |
+| 01  |  [Form Validator](Projects/SASS-Projects/form-validator-v1)     |   [Live Demo](https://form-validator-login.netlify.app)                         |       V1    |
+| 03  |  [Form Validator](Projects/SASS-Projects/form-validator-v2)     |   [Live Demo](https://form-validator-v2.netlify.app/)                           |       V2    |
+| 02  |  [FAQ accordion](Projects/SASS-Projects/faq-accordion-v1)       |   [Live Demo](https://faq-accordion-oi.netlify.app/)                            |       V1    |
+| 03  |  [FAQ accordion](Projects/SASS-Projects/faq-accordion-v2)       |   [Live Demo](https://faq-accordion-v2.netlify.app/)                            |       V2    |
+
 
 ## Features Included
 
