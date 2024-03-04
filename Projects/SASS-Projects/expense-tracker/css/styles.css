@@ -1,0 +1,122 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  min-height: 100vh;
+  font-family: sans-serif;
+  background: #f7f7f7;
+  margin: 0;
+}
+
+h2 {
+  margin: 1rem 0 2.3rem 0;
+  text-align: center;
+}
+
+.container {
+  width: 365px;
+  margin: 30 auto;
+}
+.container .your-balance {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+}
+.container #Balance {
+  font-size: 35px;
+  font-weight: 500;
+  margin: 0;
+}
+.container .inc-exp-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  margin: 1rem 0 2rem 0;
+  text-align: center;
+}
+.container .inc-exp-container h4 {
+  margin: 2rem 0 0.6rem 0;
+  font-weight: bold;
+}
+.container .inc-exp-container .money {
+  margin: 0 0 1.5rem 0;
+  font-size: 20px;
+}
+.container .inc-exp-container .money.plus {
+  color: #2ecc71;
+}
+.container .inc-exp-container .money.minus {
+  color: #c0392b;
+}
+.container .list {
+  padding: 0;
+}
+.container .list li {
+  list-style: none;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  border-radius: 2px;
+  position: relative;
+  margin-top: 1rem;
+}
+.container .list li.plus {
+  border-right: #2ecc71 5px solid;
+}
+.container .list li.minus {
+  border-right: #c0392b 5px solid;
+}
+.container .list li .delete-btn {
+  display: inline-block;
+  position: absolute;
+  left: -20px;
+  background-color: #e74c3c;
+  border: 0;
+  color: #fff;
+  font-size: 20px;
+  line-height: 20px;
+  padding: 2px 5px;
+  opacity: 0;
+  transition: opacity ease-in-out 0.3s;
+}
+.container .list li:hover .delete-btn {
+  opacity: 1;
+}
+.container .item-name {
+  border: 1px solid #dedede;
+  border-radius: 2px;
+  display: block;
+  font-size: 16px;
+  padding: 10px;
+  width: 100%;
+  margin: 0.8rem 0 1rem 0;
+}
+.container .item-amount {
+  border: 1px solid #dedede;
+  border-radius: 2px;
+  display: block;
+  font-size: 16px;
+  padding: 10px;
+  width: 100%;
+}
+.container .main-btn {
+  border: 1px solid #dedede;
+  border-radius: 2px;
+  display: block;
+  font-size: 16px;
+  padding: 10px;
+  width: 100%;
+  margin: 1rem 0 4rem 0;
+  background: #9c88ff;
+  color: #fff;
+}/*# sourceMappingURL=styles.css.map */
